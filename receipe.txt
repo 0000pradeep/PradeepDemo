@@ -15,3 +15,5 @@ changes to slave branch
 
 thankyou
 Done with current version
+
+lets meger the master and slave branch
