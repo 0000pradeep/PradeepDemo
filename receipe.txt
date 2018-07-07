@@ -9,8 +9,13 @@ pasha cornato
 beans
 pizza
 bread
+<<<<<<< HEAD
 
 changes to slave branch
+=======
+brown bread
+
+>>>>>>> eae7b1e0b67d10f1286c4601d35fafa7de07959f
 
 
 thankyou
